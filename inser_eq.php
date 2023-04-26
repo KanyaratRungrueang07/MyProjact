@@ -1,8 +1,8 @@
 <?php
 include 'condb.php';
-
-$eq_name = $_POST['eqname'];
 $eq_id = $_POST['eqid'];
+$eq_name = $_POST['eqname'];
+
 $eq_b = $_POST['eqb'];
 $eq_mo_name = $_POST['mname'];
 $eq_aname = $_POST['aname'];
